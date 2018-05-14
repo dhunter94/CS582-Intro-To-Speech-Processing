@@ -1,0 +1,8 @@
+user: Hello
+Bot: hi, how are you?.
+user: fglkjfglf
+Bot: I like pie
+user: Do you like math?
+Bot: I do math program on the only.
+user: I love pizza
+Bot: You love pizza and i don't know i.
