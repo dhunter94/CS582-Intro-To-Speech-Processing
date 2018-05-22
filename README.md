@@ -1,4 +1,4 @@
-# CS582Intro-To-Speech-Processing
+# CS582-Intro-To-Speech-Processing
 Fundamentals of speech processing and speech recognition.
 Physical aspects of speech production and perception. Mathematical
 models for speech recognition. Corpus development: data
